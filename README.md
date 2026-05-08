@@ -52,6 +52,7 @@ The tool also tries to unload target modules if they are already loaded and rebu
 ## Commands
 
 Make the script executable:     
+    
     chmod +x dirtyfrag-hotfix.sh
      
 Apply mitigation:
