@@ -100,8 +100,6 @@ Initial validation was performed on:
 
 - Linux Mint 22.3
 - Ubuntu 24.04 base
-- Kernel 6.17.0-20-generic
-
 
 ## Scope
 
