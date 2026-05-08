@@ -1,6 +1,6 @@
 # dirtyfrag-hotfix
 
-Temporary defensive mitigation helper for DirtyFrag-style Linux local privilege escalation.
+Temporary defensive mitigation helper for DirtyFrag Linux local privilege escalation.
 
 This tool blocks the currently known DirtyFrag attack surface by preventing these kernel modules from loading:
 
