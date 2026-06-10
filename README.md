@@ -98,8 +98,6 @@ On the tested system:
 ## Tested environment
 
 Initial validation was performed on:
-
-- Linux Mint 22.3
 - Ubuntu 24.04 base
 
 ## Scope
